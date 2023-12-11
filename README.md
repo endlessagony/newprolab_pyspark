@@ -1,5 +1,6 @@
-# PySpark Data Science
 ![image](https://github.com/endlessagony/newprolab_pyspark/assets/74978814/e44866ce-664e-4973-b26c-1da25775c221)
+
+# PySpark Data Science
 I have successfully completed the Apache Spark course with a focus on PySpark, covering a range of tasks including data processing, machine learning, and real-time stream processing.
 
 ## Labs Completion
